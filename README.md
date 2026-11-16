@@ -1,4 +1,6 @@
-### Hi, I'm Roman – backend engineer (PHP, Laravel, Symfony)
+# Roman Staroseltsev
+
+**Senior Backend Developer (PHP, AI)** · commercial PHP since 2011 · Senior since 2017
 
 Payments, integrations and the code around them that must not break: webhooks, queues, idempotency, retries.
 Commercial PHP since 2011, Senior since 2017, former Tech Lead (rebuilt a marketplace, grew the team 0 → 3).
